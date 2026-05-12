@@ -22,5 +22,6 @@ public class Main
         System.out.println("Mult " + mult);
         
         //coole idee1
+        // 2...
     }
 }
