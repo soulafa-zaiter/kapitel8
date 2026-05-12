@@ -20,5 +20,7 @@ public class Main
         
         System.out.println("Summe " + summe);
         System.out.println("Mult " + mult);
+        
+        //coole idee1
     }
 }
