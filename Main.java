@@ -5,7 +5,7 @@ public class Main
     {
         int summe = 0;
 
-        int obereGrenze = 10;
+        int obereGrenze = 50;
 
         for(int i = 1; i <= 20; ++i)
         {
